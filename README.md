@@ -1,2 +1,3 @@
 # CRUD
-Work for employment
+Одностраничный CRUD с элементарным фронтэндом. 
+Выполнен на laravel/vue/Postgress с использованием механизма миграций. 
